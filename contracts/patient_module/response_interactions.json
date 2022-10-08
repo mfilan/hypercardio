@@ -1,38 +1,34 @@
 {
-  "drug": "drug",
-  "substance": "substance",
-  "description": "description",
-
+  "drug": "Apap",
+  "substance": "paracetamol",
+  "description": "Lek o działaniu przeciwbólowym i przeciwgorączkowym",
   "suggestedReplacement": [
     {
-      "drug": "drug1",
-      "substance": "substance1",
-      "description": "description"
+      "drug": "Ibuprofen",
+      "substance": "ibuprofen",
+      "description": "Lek o działaniu przeciwbólowym i przeciwgorączkowym"
     }
   ],
   "interactions": [
     {
-      "drug": "drug1",
+      "drug": "EUTHYROX",
       "level": "critical",
       "diseases": [
-        "diseasesName",
-        "diseasesName"
+        "nadciśnienie tętnicze"
       ]
     },
     {
-      "drug": "drug2",
-      "level": "good",
-      "diseases": [
-        "diseasesName",
-        "diseasesName"
-      ]
-    },
-        {
-      "drug": "drug3",
+      "drug": "LEK NR 2",
       "level": "warning",
       "diseases": [
-        "diseasesName",
-        "diseasesName"
+        "miażdżyca"
+      ]
+    },
+    {
+      "drug": "LEK NR 3",
+      "level": "good",
+      "diseases": [
+        "nadciśnienie tętnicze"
       ]
     }
   ]
