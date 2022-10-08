@@ -18,9 +18,9 @@ def get_drugs():
 def add_income():
     data = request.get_json()
     patient_drugs_list = data["patientDrugsList"]
-    new_drug_name = data["newDrugName"]
+    new_drug_name = data["newDrug"]
 
-    mock_json = open(os.path.join("contracts", "patient_module", "response_interactions.json"), "r")
+    mock_json = open(os.path.join("contracts", "patient_module", "response_interactions.json"), "r", encoding='utf-8')
     return json.load(mock_json)
 
 
