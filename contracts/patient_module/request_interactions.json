@@ -1,7 +1,7 @@
 {
   "patientDrugsList": [
-    "drugName1",
-    "drugName2"
+    "drug1",
+    "drug2"
   ],
-  "newDrugName": "newDrugName"
+  "newDrug": "newDrug"
 }

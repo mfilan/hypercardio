@@ -1,8 +1,8 @@
 {
   "recommendedDrugs": [
     {
-      "drugName": "drugName1",
-      "substanceName": "substanceName1",
+      "drug": "drug1",
+      "substance": "substance1",
       "diseases": [
         "diseasesName1",
         "diseasesName2"
@@ -13,8 +13,8 @@
       ]
     },
     {
-      "drugName": "drugName2",
-      "substanceName": "substanceName2",
+      "drug": "drug2",
+      "substance": "substance2",
       "diseases": [
         "diseasesName1",
         "diseasesName2"
@@ -28,8 +28,8 @@
   "otherRecommendations": [
     [
       {
-        "drugName": "drugName1",
-        "substanceName": "substanceName1",
+        "drug": "drug1",
+        "substance": "substance1",
         "diseases": [
           "diseasesName1",
           "diseasesName2"
@@ -40,8 +40,8 @@
         ]
       },
       {
-        "drugName": "drugName2",
-        "substanceName": "substanceName2",
+        "drug": "drug2",
+        "substance": "substance2",
         "diseases": [
           "diseasesName1",
           "diseasesName2"
@@ -54,8 +54,8 @@
     ],
     [
       {
-        "drugName": "drugName1",
-        "substanceName": "substanceName1",
+        "drug": "drug1",
+        "substance": "substance1",
         "diseases": [
           "diseasesName1",
           "diseasesName2"
@@ -66,8 +66,8 @@
         ]
       },
       {
-        "drugName": "drugName2",
-        "substanceName": "substanceName2",
+        "drug": "drug2",
+        "substance": "substance2",
         "diseases": [
           "diseasesName1",
           "diseasesName2"

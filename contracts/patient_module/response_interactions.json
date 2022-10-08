@@ -1,18 +1,18 @@
 {
-  "drugName": "drugName",
-  "substanceName": "substanceName",
+  "drug": "drug",
+  "substance": "substance",
   "description": "description",
 
   "suggestedReplacement": [
     {
-      "drugName": "drugName1",
-      "substanceName": "substanceName1",
+      "drug": "drug1",
+      "substance": "substance1",
       "description": "description"
     }
   ],
   "interactions": [
     {
-      "drugName": "drugName1",
+      "drug": "drug1",
       "level": "critical",
       "diseases": [
         "diseasesName",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "drugName": "drugName2",
+      "drug": "drug2",
       "level": "good",
       "diseases": [
         "diseasesName",
@@ -28,7 +28,7 @@
       ]
     },
         {
-      "drugName": "drugName3",
+      "drug": "drug3",
       "level": "warning",
       "diseases": [
         "diseasesName",
