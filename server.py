@@ -1,5 +1,6 @@
 from flask import Flask, jsonify, request
 import json
+import os
 
 app = Flask(__name__)
 
@@ -10,95 +11,17 @@ def get_drugs():
     diseases = data["diseases"]
     exclude_list = data["excludeList"]
 
-    return jsonify({
-        "recommendedDrugs": [
-            {
-                "drugName": "drugName1",
-                "substanceName": "substanceName1",
-                "diseases": [
-                    "diseasesName1",
-                    "diseasesName2"
-                ],
-                "activeCompounds": [
-                    "compounds1",
-                    "compounds2"
-                ]
-            },
-            {
-                "drugName": "drugName2",
-                "substanceName": "substanceName2",
-                "diseases": [
-                    "diseasesName1",
-                    "diseasesName2"
-                ],
-                "activeCompounds": [
-                    "compounds1",
-                    "compounds2"
-                ]
-            }
-        ],
-        "otherRecommendations": [
-            [
-                {
-                    "drugName": "drugName1",
-                    "substanceName": "substanceName1",
-                    "diseases": [
-                        "diseasesName1",
-                        "diseasesName2"
-                    ],
-                    "activeCompounds": [
-                        "compounds1",
-                        "compounds2"
-                    ]
-                },
-                {
-                    "drugName": "drugName2",
-                    "substanceName": "substanceName2",
-                    "diseases": [
-                        "diseasesName1",
-                        "diseasesName2"
-                    ],
-                    "activeCompounds": [
-                        "compounds1",
-                        "compounds2"
-                    ]
-                }
-            ],
-            [
-                {
-                    "drugName": "drugName1",
-                    "substanceName": "substanceName1",
-                    "diseases": [
-                        "diseasesName1",
-                        "diseasesName2"
-                    ],
-                    "activeCompounds": [
-                        "compounds1",
-                        "compounds2"
-                    ]
-                },
-                {
-                    "drugName": "drugName2",
-                    "substanceName": "substanceName2",
-                    "diseases": [
-                        "diseasesName1",
-                        "diseasesName2"
-                    ],
-                    "activeCompounds": [
-                        "compounds1",
-                        "compounds2"
-                    ]
-                }
-            ]
-        ]
-    }
-    )
+    mock_json = open(os.path.join("contracts", "doctor_module", "response_diseases.json"), "r")
+    return json.load(mock_json)
 
-
-@app.route('/patient', methods=['GET'])
+@app.route('/patient', methods=['POST'])
 def add_income():
     data = request.get_json()
-    return jsonify("dupa")
+    patient_drugs_list = data["patientDrugsList"]
+    new_drug_name = data["newDrugName"]
+
+    mock_json = open(os.path.join("contracts", "patient_module", "response_interactions.json"), "r")
+    return json.load(mock_json)
 
 
 if __name__ == '__main__':
