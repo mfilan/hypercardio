@@ -11,7 +11,7 @@ def get_drugs():
     diseases = data["diseases"]
     exclude_list = data["excludeList"]
 
-    mock_json = open(os.path.join("contracts", "doctor_module", "response_diseases.json"), "r")
+    mock_json = open(os.path.join("contracts", "doctor_module", "response_diseases.json"), "r", encoding='utf-8')
     return json.load(mock_json)
 
 @app.route('/patient', methods=['POST'])
