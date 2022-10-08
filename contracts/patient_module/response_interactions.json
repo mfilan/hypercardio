@@ -1,0 +1,33 @@
+{
+  "drugName": "drugName",
+  "substanceName": "substanceName",
+  "description": "description",
+  //nullable
+  "suggestedReplacement": [
+    {
+      "drugName": "drugName1",
+      "substanceName": "substanceName1",
+      "description": "description"
+    }
+  ],
+  "interactions": [
+    {
+      "drugName": "drugName1",
+      //critical, warning, good
+      "level": "critical",
+      "diseases": [
+        "diseasesName",
+        "diseasesName"
+      ]
+    },
+    {
+      "drugName": "drugName2",
+      //critical, warning, good
+      "level": "good",
+      "diseases": [
+        "diseasesName",
+        "diseasesName"
+      ]
+    }
+  ]
+}
