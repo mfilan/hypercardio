@@ -12,21 +12,21 @@
   "interactions": [
     {
       "drug": "EUTHYROX",
-      "level": "critical",
+      "level": "major",
       "diseases": [
         "nadciśnienie tętnicze"
       ]
     },
     {
       "drug": "LEK NR 2",
-      "level": "warning",
+      "level": "moderate",
       "diseases": [
         "miażdżyca"
       ]
     },
     {
       "drug": "LEK NR 3",
-      "level": "good",
+      "level": "minor",
       "diseases": [
         "nadciśnienie tętnicze"
       ]
