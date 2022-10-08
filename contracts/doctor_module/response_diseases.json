@@ -1,0 +1,110 @@
+{
+  "recommendedDrugs": [
+    {
+      "drugName": "drugName1",
+      "substanceName": "substanceName1",
+      "diseases": [
+        "diseasesName1",
+        "diseasesName2"
+      ],
+      "activeCompounds": [
+        "compounds1",
+        "compounds2"
+      ]
+    },
+    {
+      "drugName": "drugName2",
+      "substanceName": "substanceName2",
+      "diseases": [
+        "diseasesName1",
+        "diseasesName2"
+      ],
+      "activeCompounds": [
+        "compounds1",
+        "compounds2"
+      ]
+    }
+  ],
+  "otherRecommendations": [
+    [
+      {
+        "drugName": "drugName1",
+        "substanceName": "substanceName1",
+        "diseases": [
+          "diseasesName1",
+          "diseasesName2"
+        ],
+        "activeCompounds": [
+          "compounds1",
+          "compounds2"
+        ]
+      },
+      {
+        "drugName": "drugName2",
+        "substanceName": "substanceName2",
+        "diseases": [
+          "diseasesName1",
+          "diseasesName2"
+        ],
+        "activeCompounds": [
+          "compounds1",
+          "compounds2"
+        ]
+      }
+    ],
+    [
+      {
+        "drugName": "drugName1",
+        "substanceName": "substanceName1",
+        "diseases": [
+          "diseasesName1",
+          "diseasesName2"
+        ],
+        "activeCompounds": [
+          "compounds1",
+          "compounds2"
+        ]
+      },
+      {
+        "drugName": "drugName2",
+        "substanceName": "substanceName2",
+        "diseases": [
+          "diseasesName1",
+          "diseasesName2"
+        ],
+        "activeCompounds": [
+          "compounds1",
+          "compounds2"
+        ]
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
