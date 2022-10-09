@@ -50,6 +50,7 @@ def findDrugs(disieses, banned = [], redundant=False):
     unga=set(disieses)
     helper = {str(idx):{0:[]} for idx in subsets}
     for i in range(1,len(db_keys)+1):
+        # print(helper)
         for subset in subsets:
             helper[str(subset)][i] = [*helper[str(subset)][i-1]]
             if db_keys[i-1] not in banned:
@@ -58,7 +59,7 @@ def findDrugs(disieses, banned = [], redundant=False):
                     helper[str(subset)][i] += [[i-1]]
                 if not intersec.difference(subset):                                                   
                     names = [str(subset.difference(set(s))) for s in list(mit.powerset(intersec)) if str(subset.difference(set(s))) != 'set()']
-                    if redundant:
+                    if not redundant:
                         names=names[1:]
                     for name in names:
                         for a in list(itertools.product(helper[name][i - 1], [[i - 1]])):
@@ -69,14 +70,15 @@ def findDrugs(disieses, banned = [], redundant=False):
                                         wrong = True
                                         break
                                 except:
-                                    print("pass")
+                                    # print("pass")
+                                    "pass"
                             if not wrong:
                                 helper[str(subset)][i] += [a[0] + a[1] for a in list(itertools.product(helper[name][i - 1], [[i - 1]]))]
 
     result = helper[list(helper.keys())[-1]][len(db_keys)]
     result = [[db_keys[b] for b in a ] for a in result]
-    result = sorting(result)
-    result = [{"info":[{"drug":b, "substance":getActiveSubstance(b),"diseases":db[b]["diseases"]} for b in a], "interactions":getIteractions(a)} for a in result]
+    # result = sorting(result)
+    result = [{"info":[{"drug":b, "substance":getActiveSubstance(b)} for b in a], "interactions":getIteractions(a)} for a in result]
     result = {"recommendedDrugs":result[0], "otherRecommendations":result[1:]}
     return result
 
@@ -108,8 +110,6 @@ def checkComp(lis, drug):
     return {"drug":drug, "substance":getActiveSubstance(drug), "interactions": temp}
 
 
-
-    
-print(findDrugs(["Hydrocephalus"]))
+print(findDrugs(['Acromegaly','Albuminuria','Anemia, Sickle Cell','Endomyocardial Fibrosis'])["recommendedDrugs"])
 
 print(findBest(['Zyvox'], "Nervous System Disorder"))
