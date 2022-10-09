@@ -55,10 +55,6 @@ renal dysfunction,Moderate,Acetaminophen and Hydrocodone
 seizure disorders,Moderate,Acetaminophen and Hydrocodone
 urinary retention,Moderate,Acetaminophen and Hydrocodone
 arrhythmias,Moderate,Acetaminophen and Hydrocodone
-hepatic encephalopathy,Major,Acetylcysteine
-asthma,Moderate,Acetylcysteine
-fluid overload,Moderate,Acetylcysteine
-gastric hemorrhage,Moderate,Acetylcysteine
 CHF,Major,Actos
 type I diabetes,Major,Actos
 bladder cancer,Moderate,Actos
@@ -134,8 +130,6 @@ blood glucose,Moderate,Afinitor
 cholesterol,Moderate,Afinitor
 Infections,Moderate,Afinitor
 wound complication,Moderate,Afinitor
-constipation,Moderate,Aimovig
-hypertension,Moderate,Aimovig
 cardiovascular,Moderate,Albuterol
 diabetes,Moderate,Albuterol
 hypokalemia,Moderate,Albuterol
@@ -233,11 +227,6 @@ cardiogenic shock/hypotension,Major,Amlodipine
 coronary artery disease,Major,Amlodipine
 liver disease,Major,Amlodipine
 CHF/AMI,Moderate,Amlodipine
-colitis,Major,Amoxicillin
-mononucleosis,Moderate,Amoxicillin
-diabetes,Moderate,Amoxicillin
-renal dysfunction,Moderate,Amoxicillin
-hemodialysis,Moderate,Amoxicillin
 hepatotoxicity,Major,Amoxicillin and Clavulanate
 colitis,Major,Amoxicillin and Clavulanate
 mononucleosis,Moderate,Amoxicillin and Clavulanate
@@ -250,10 +239,6 @@ mononucleosis,Moderate,Ampicillin
 sodium,Moderate,Ampicillin
 renal dysfunction,Moderate,Ampicillin
 hemodialysis,Moderate,Ampicillin
-cardiovascular,Moderate,Anastrozole
-cholesterol,Moderate,Anastrozole
-hepatic dysfunction,Moderate,Anastrozole
-osteoporosis,Moderate,Anastrozole
 carcinoma (male),Major,AndroGel
 fluid retention,Major,AndroGel
 hypercalcemia in breast cancer,Major,AndroGel
@@ -290,10 +275,6 @@ PUD,Major,Aricept
 seizures,Major,Aricept
 hyperthyroidism,Moderate,Aricept
 hepatic dysfunction,Moderate,Aricept
-cardiovascular,Moderate,Arimidex
-cholesterol,Moderate,Arimidex
-hepatic dysfunction,Moderate,Arimidex
-osteoporosis,Moderate,Arimidex
 suicidality,Major,Aripiprazole
 dementia,Major,Aripiprazole
 acute alcohol intoxication,Major,Aripiprazole
@@ -473,20 +454,9 @@ depression,Major,Banzel
 liver disease,Major,Banzel
 renal dysfunction,Major,Banzel
 short QT syndrome,Major,Banzel
-insulinoma,Major,Baqsimi
-pheochromocytoma,Major,Baqsimi
-cardiac disease,Moderate,Baqsimi
-glycogen depletion,Moderate,Baqsimi
 renal/liver disease,Moderate,Basaglar
 hypokalemia,Moderate,Basaglar
 hypoglycemia,Moderate,Basaglar
-hepatic impairment,Moderate,Bavencio
-adrenal insufficiency,Moderate,Bavencio
-colitis,Moderate,Bavencio
-diabetes,Moderate,Bavencio
-pneumonitis,Moderate,Bavencio
-renal dysfunction,Moderate,Bavencio
-thyroid disease,Moderate,Bavencio
 impaired GI motility,Major,Belbuca
 infectious diarrhea,Major,Belbuca
 liver disease,Major,Belbuca
@@ -557,7 +527,6 @@ hyperthyroidism,Moderate,Bentyl
 renal impairment,Moderate,Bentyl
 hypertension,Minor,Bentyl
 fever,Minor,Bentyl
-psychiatric conditions,Moderate,Benzonatate
 infectious diarrhea,Major,Benztropine
 angle-closure glaucoma.,Major,Benztropine
 psychoses,Moderate,Benztropine
@@ -577,13 +546,6 @@ GI/bladder neck obstruction,Major,Bethanechol
 hyperthyroidism,Major,Bethanechol
 parkinsonism,Major,Bethanechol
 seizure disorders,Major,Bethanechol
-fistula formation,Major,Bevacizumab
-GI perforation,Major,Bevacizumab
-bleeding,Moderate,Bevacizumab
-hypertension,Moderate,Bevacizumab
-PRES,Moderate,Bevacizumab
-proteinuria,Moderate,Bevacizumab
-thromboembolic disorders,Moderate,Bevacizumab
 hepatic dysfunction,Moderate,Bicalutamide
 infections,Major,Blincyto
 vaccination,Major,Blincyto
@@ -921,11 +883,6 @@ QT prolongation,Moderate,Celexa
 seizure disorders,Moderate,Celexa
 SIADH,Moderate,Celexa
 weight loss,Minor,Celexa
-colitis,Major,Cephalexin
-renal dysfunction,Moderate,Cephalexin
-dialysis,Moderate,Cephalexin
-liver disease,Moderate,Cephalexin
-seizure disorders,Moderate,Cephalexin
 alcohol,Moderate,Cetirizine
 renal/liver disease,Moderate,Cetirizine
 anuria,Major,Chlorthalidone
@@ -1022,8 +979,6 @@ renal dysfunction,Moderate,Codeine
 seizure disorders,Moderate,Codeine
 urinary retention,Moderate,Codeine
 arrhythmias,Moderate,Codeine
-inflammatory bowel disease,Major,Colace
-intestinal obstruction disorders,Major,Colace
 renal dysfunction,Moderate,Colazal
 agitation,Major,Concerta
 cardiac disease,Major,Concerta
@@ -1079,10 +1034,6 @@ cognitive impairment,Moderate,Crestor
 diabetes,Moderate,Crestor
 renal disease,Moderate,Crestor
 hematuria/proteinuria,Moderate,Crestor
-hypokalemia,Major,Cyanocobalamin
-optic nerve,Major,Cyanocobalamin
-malabsorption,Moderate,Cyanocobalamin
-renal impairment,Moderate,Cyanocobalamin
 cardiovascular disease,Major,Cyclobenzaprine
 anticholinergic effects,Moderate,Cyclobenzaprine
 liver disease,Major,Cymbalta
@@ -1154,8 +1105,6 @@ hemodialysis,Moderate,Descovy
 renal dysfunction,Moderate,Descovy
 bone toxicity,Moderate,Descovy
 liver disease,Minor,Descovy
-asthma,Moderate,Desloratadine
-renal/hepatic impairment,Moderate,Desloratadine
 renal dysfunction,Major,Desmopressin
 fluid overload/hyponatremia,Major,Desmopressin
 thrombotic events,Moderate,Desmopressin
@@ -1498,7 +1447,6 @@ valvular heart disease,Major,Eliquis
 renal dysfunction,Major,Empagliflozin
 hypotension,Moderate,Empagliflozin
 infections,Moderate,Empagliflozin
-infections,Major,Empaveli
 angioedema,Major,Enalapril
 bone marrow suppression,Major,Enalapril
 CHF,Major,Enalapril
@@ -1576,11 +1524,6 @@ liver dysfunction,Moderate,Erleada
 osteoporosis,Moderate,Erleada
 renal impairment,Moderate,Erleada
 seizure,Moderate,Erleada
-colitis,Major,Ertapenem
-renal dysfunction,Major,Ertapenem
-CNS disorders,Moderate,Ertapenem
-hemodialysis,Moderate,Ertapenem
-sodium,Moderate,Ertapenem
 depression,Major,Escitalopram
 renal dysfunction,Moderate,Escitalopram
 hyponatremia,Moderate,Escitalopram
@@ -1621,9 +1564,6 @@ hypertension,Moderate,Etodolac
 platelet aggregation inhibition,Moderate,Etodolac
 hepatic dysfunction,Major,Eulexin
 hemolysis,Moderate,Eulexin
-hypocalcemia,Major,Evenity
-myocardial infarction/stroke,Major,Evenity
-osteonecrosis of the jaw,Moderate,Evenity
 liver disease,Major,Everolimus
 vaccination,Major,Everolimus
 renal disease,Major,Everolimus
@@ -1632,29 +1572,14 @@ blood glucose,Moderate,Everolimus
 cholesterol,Moderate,Everolimus
 Infections,Moderate,Everolimus
 wound complication,Moderate,Everolimus
-thromboembolism,Major,Evista
-heart disease,Moderate,Evista
-hypertriglyceridemia,Moderate,Evista
-liver disease,Moderate,Evista
-renal impairment,Moderate,Evista
 osteoporosis,Moderate,Exemestane
 vitamin D deficiency,Moderate,Exemestane
-liver disease,Major,Ezetimibe
-myopathy/rhabdomyolysis,Moderate,Ezetimibe
-renal impairment,Moderate,Ezetimibe
 GI bleeding,Major,Famotidine
 renal dysfunction,Moderate,Famotidine
 liver dysfunction,Major,Farxiga
 renal dysfunction,Major,Farxiga
 hypotension,Moderate,Farxiga
 infections,Moderate,Farxiga
-infections,Moderate,Fasenra
-hepatic dysfunction,Major,Faslodex
-bleeding,Moderate,Faslodex
-secondary hyperuricemia,Major,Febuxostat
-CV disease,Moderate,Febuxostat
-renal dysfunction,Moderate,Febuxostat
-hepatic impairment,Moderate,Febuxostat
 liver disease,Major,Femara
 cholesterol,Moderate,Femara
 osteoporosis,Moderate,Femara
@@ -1662,8 +1587,6 @@ hemoglobin abnormalities,Major,Ferrous gluconate
 achlorhydria,Moderate,Ferrous gluconate
 gastrointestinal irritation,Moderate,Ferrous gluconate
 renal dysfunction,Moderate,Fexofenadine
-liver disease,Moderate,Finasteride
-urinary obstruction,Moderate,Finasteride
 cardiac disease,Major,Fintepla
 pulmonary disease,Major,Fintepla
 suicidal tendency,Moderate,Fintepla
@@ -1741,10 +1664,6 @@ osteoporosis,Moderate,Fludrocortisone
 scleroderma,Moderate,Fludrocortisone
 strongyloidiasis,Moderate,Fludrocortisone
 thromboembolism,Moderate,Fludrocortisone
-seizures,Major,Flumazenil
-alcoholism,Moderate,Flumazenil
-hepatic dysfunction,Moderate,Flumazenil
-psychoses,Moderate,Flumazenil
 depression,Major,Fluoxetine
 diabetes,Moderate,Fluoxetine
 hyponatremia,Moderate,Fluoxetine
@@ -1825,13 +1744,6 @@ psychotic disorders,Moderate,Focalin XR
 renal dysfunction,Moderate,Focalin XR
 seizure disorders,Moderate,Focalin XR
 hematologic toxicity,Moderate,Focalin XR
-anemia,Major,Folic Acid
-hyperparathyroidism,Major,Forteo
-malignancy,Major,Forteo
-metabolic bone disorder,Major,Forteo
-orthostatic hypotension,Moderate,Forteo
-renal impairment,Moderate,Forteo
-urolithiasis,Moderate,Forteo
 aspiration,Major,Fosamax
 ONJ,Major,Fosamax
 hypocalcemia,Major,Fosamax
@@ -1839,9 +1751,6 @@ upper GI mucosal irritation,Major,Fosamax
 CV,Moderate,Fosamax
 renal dysfunction,Moderate,Fosamax
 asthma,Moderate,Fosamax
-colitis,Major,Fosfomycin
-hemodialysis,Moderate,Fosfomycin
-renal dysfunction,Minor,Fosfomycin
 angioedema,Major,Fosinopril
 bone marrow suppression,Major,Fosinopril
 CHF,Major,Fosinopril
@@ -1851,8 +1760,6 @@ hypotension,Major,Fosinopril
 liver disease,Moderate,Fosinopril
 renal dysfunction,Moderate,Fosinopril
 liver impairment,Moderate,Fosinopril
-hepatic dysfunction,Major,Fulvestrant
-bleeding,Moderate,Fulvestrant
 anuria,Major,Furosemide
 cirrhosis,Major,Furosemide
 electrolyte losses,Major,Furosemide
@@ -1904,7 +1811,6 @@ rhabdomyolysis,Major,Gemfibrozil
 liver disease,Major,Gemfibrozil
 renal dysfunction,Major,Gemfibrozil
 hematological changes,Moderate,Gemfibrozil
-urinary retention,Moderate,Gemtesa
 infections,Major,Gemzar
 cardiovascular dysfunction,Major,Gemzar
 hemolytic uremic syndrome,Major,Gemzar
@@ -1968,10 +1874,6 @@ GI narrowing,Moderate,Glipizide
 hypoglycemia,Moderate,Glipizide
 G6PD deficiency,Moderate,Glipizide
 hyponatremia,Moderate,Glipizide
-insulinoma,Major,Glucagon
-pheochromocytoma,Major,Glucagon
-cardiac disease,Moderate,Glucagon
-glycogen depletion,Moderate,Glucagon
 lactic acidosis,Major,Glucophage
 cardiovascular risk,Major,Glucophage
 hypoglycemia,Moderate,Glucophage
@@ -2018,10 +1920,6 @@ depression,Moderate,Guanfacine
 hypotension,Moderate,Guanfacine
 ADHD,Moderate,Guanfacine
 renal/liver disease,Moderate,Guanfacine
-insulinoma,Major,Gvoke HypoPen
-pheochromocytoma,Major,Gvoke HypoPen
-cardiac disease,Moderate,Gvoke HypoPen
-glycogen depletion,Moderate,Gvoke HypoPen
 thromboembolic events,Moderate,Haegarda
 acute alcohol intoxication,Major,Halcion
 closed-angle glaucoma,Major,Halcion
@@ -2099,8 +1997,6 @@ crystalluria,Major,Hiprex
 gout,Major,Hiprex
 liver disease,Major,Hiprex
 ziprasidone,Major,Histrelin
-renal disease,Major,Hizentra
-thrombosis,Major,Hizentra
 drug dependence,Major,Horizant
 renal dysfunction,Major,Horizant
 suicidal tendency,Moderate,Horizant
@@ -2602,9 +2498,6 @@ hepatic dysfunction,Major,Ingrezza
 QT prolongation,Major,Ingrezza
 renal dysfunction,Major,Ingrezza
 parkinson,Moderate,Ingrezza
-hypertension,Moderate,Injectafer
-hypophosphatemia,Moderate,Injectafer
-hypersensitivity reactions,Moderate,Injectafer
 hemorrhagic events,Major,Inlyta
 cardiac failure,Moderate,Inlyta
 GI perforation,Moderate,Inlyta
@@ -2922,11 +2815,6 @@ sedatives/alcohol,Moderate,Kapvay
 hypokalemia,Major,Kayexalate
 obstructive bowel disease,Major,Kayexalate
 sodium load,Major,Kayexalate
-colitis,Major,Keflex
-renal dysfunction,Moderate,Keflex
-dialysis,Moderate,Keflex
-liver disease,Moderate,Keflex
-seizure disorders,Moderate,Keflex
 diabetes,Moderate,Kenalog
 diaper rash,Moderate,Kenalog
 hyperadrenocorticism,Moderate,Kenalog
@@ -2988,17 +2876,6 @@ diverticulitis,Moderate,Kevzara
 hepatic impairment,Moderate,Kevzara
 hyperlipidemia,Moderate,Kevzara
 renal dysfunction,Moderate,Kevzara
-infections,Major,Keytruda
-infusion reactions,Major,Keytruda
-tumor lysis syndrome,Major,Keytruda
-myasthenia gravis,Moderate,Keytruda
-colitis,Moderate,Keytruda
-diabetes,Moderate,Keytruda
-hepatic impairment,Moderate,Keytruda
-multiple myeloma,Moderate,Keytruda
-pneumonitis,Moderate,Keytruda
-renal dysfunction,Moderate,Keytruda
-thyroid disease,Moderate,Keytruda
 Ribociclib – arrhythmias,Major,Kisqali
 lung toxicity,Moderate,Kisqali
 cutaneous toxicity,Moderate,Kisqali
@@ -3028,8 +2905,6 @@ cardiovascular risk,Major,Kombiglyze XR
 renal dysfunction,Moderate,Kombiglyze XR
 hypoglycemia,Moderate,Kombiglyze XR
 B12 deficiency,Moderate,Kombiglyze XR
-G6PD deficiency,Major,Krystexxa
-congestive heart failure,Moderate,Krystexxa
 abnormal genital bleeding,Major,Kyleena
 hepatic neoplasms,Major,Kyleena
 intracranial HTN,Major,Kyleena
@@ -3271,8 +3146,6 @@ alcoholism,Moderate,Lofexidine
 hepatic impairment,Moderate,Lofexidine
 QT prolongation,Moderate,Lofexidine
 renal impairment,Moderate,Lofexidine
-constipation/GI obstruction,Major,Lokelma
-edema,Moderate,Lokelma
 autonomic neuropathy,Major,Lomotil
 GI obstruction,Major,Lomotil
 glaucoma,Major,Lomotil
@@ -3368,9 +3241,6 @@ thrombocytopenia,Major,Lovenox
 prematurity,Major,Lovenox
 hypertension,Moderate,Lovenox
 kidney disease,Moderate,Lovenox
-renal/liver disease,Moderate,Lumigan
-macular edema,Moderate,Lumigan
-uveitis,Moderate,Lumigan
 depression,Major,Lunesta
 glaucoma,Moderate,Lunesta
 liver disease,Moderate,Lunesta
@@ -3461,17 +3331,8 @@ hypertension,Moderate,Meloxicam
 platelet aggregation inhibition,Moderate,Meloxicam
 hepatic impairment,Moderate,Memantine
 renal impairment,Moderate,Memantine
-colitis,Major,Meropenem
-renal dysfunction,Major,Meropenem
-CNS disorders,Moderate,Meropenem
-hemodialysis,Moderate,Meropenem
-sodium,Moderate,Meropenem
 liver dysfunction,Moderate,Mesalamine
 renal dysfunction,Moderate,Mesalamine
-intestinal obstruction,Major,Metamucil
-inflammatory bowel disease,Major,Metamucil
-intestinal obstruction disorders,Major,Metamucil
-renal dysfunction,Moderate,Metamucil
 lactic acidosis,Major,Metformin
 cardiovascular risk,Major,Metformin
 hypoglycemia,Moderate,Metformin
@@ -3704,10 +3565,6 @@ hepatotoxicity,Moderate,Nabumetone
 hyperkalemia,Moderate,Nabumetone
 hypertension,Moderate,Nabumetone
 platelet aggregation inhibition,Moderate,Nabumetone
-hepatic encephalopathy,Major,NAC
-asthma,Moderate,NAC
-fluid overload,Moderate,NAC
-gastric hemorrhage,Moderate,NAC
 bradyarrhythmia/AV block,Major,Nadolol
 cardiogenic shock/hypotension,Major,Nadolol
 CHF,Major,Nadolol
@@ -3727,10 +3584,6 @@ pheochromocytoma,Moderate,Nadolol
 psoriasis,Moderate,Nadolol
 tachycardia,Moderate,Nadolol
 Prinzmetal's variant angina,Moderate,Nadolol
-CV disorders,Major,Naloxone
-liver disease,Moderate,Naloxone
-renal,Moderate,Naloxone
-septic shock,Moderate,Naloxone
 hepatic impairment,Moderate,Namenda
 renal impairment,Moderate,Namenda
 bradycardia,Major,Namzaric
@@ -3743,15 +3596,6 @@ hyperthyroidism,Moderate,Namzaric
 hepatic dysfunction,Moderate,Namzaric
 hepatic impairment,Moderate,Namzaric
 renal impairment,Moderate,Namzaric
-CV disorders,Major,Narcan
-liver disease,Moderate,Narcan
-renal,Moderate,Narcan
-septic shock,Moderate,Narcan
-hyperadrenocorticism,Moderate,Nasonex
-infections,Moderate,Nasonex
-ocular herpes simplex,Moderate,Nasonex
-ocular toxicities,Moderate,Nasonex
-osteoporosis,Moderate,Nasonex
 acute alcohol intoxication,Major,Nayzilam
 closed-angle glaucoma,Major,Nayzilam
 respiratory depression,Major,Nayzilam
@@ -3845,8 +3689,6 @@ hepatic impairment,Moderate,Ninlaro
 peripheral neuropathy,Moderate,Ninlaro
 renal impairment,Moderate,Ninlaro
 thrombocytopenia,Moderate,Ninlaro
-diabetes,Moderate,Nitazoxanide
-renal/liver disease,Moderate,Nitazoxanide
 colitis,Major,Nitrofurantoin
 G-6-PD deficiency,Major,Nitrofurantoin
 hepatotoxicity,Major,Nitrofurantoin
@@ -3861,17 +3703,6 @@ intracranial pressure,Major,Nitrostat
 pericarditis,Major,Nitrostat
 hypertrophic cardiomyopathy,Moderate,Nitrostat
 glaucoma,Minor,Nitrostat
-infections,Major,Nivolumab
-infusion reactions,Major,Nivolumab
-tumor lysis syndrome,Major,Nivolumab
-colitis,Moderate,Nivolumab
-diabetes,Moderate,Nivolumab
-hepatic impairment,Moderate,Nivolumab
-neurologic disorders,Moderate,Nivolumab
-pneumonitis,Moderate,Nivolumab
-renal dysfunction,Moderate,Nivolumab
-thyroid disease,Moderate,Nivolumab
-myasthenia gravis,Moderate,Nivolumab
 alcoholism,Major,Norco
 liver disease,Major,Norco
 impaired GI motility,Major,Norco
@@ -3933,9 +3764,6 @@ cardiovascular disease,Major,NP Thyroid
 thyrotoxicosis,Major,NP Thyroid
 diabetes,Moderate,NP Thyroid
 seizures,Moderate,NP Thyroid
-leukemia,Major,NPlate
-hepatic impairment,Moderate,NPlate
-renal impairment,Moderate,NPlate
 hepatic impairment,Moderate,Nubeqa
 renal impairment,Moderate,Nubeqa
 impaired GI motility,Major,Nucynta
@@ -4017,7 +3845,6 @@ diaper rash,Moderate,Olux
 hyperadrenocorticism,Moderate,Olux
 infections,Moderate,Olux
 ocular toxicities,Moderate,Olux
-malignancies,Moderate,Omalizumab
 C. diff,Major,Omeprazole
 bone fractures,Moderate,Omeprazole
 hypomagnesemia,Moderate,Omeprazole
@@ -4045,17 +3872,6 @@ hepatic tumors,Major,Onureg
 hepatic impairment,Moderate,Onureg
 renal impairment,Moderate,Onureg
 anemia,Moderate,Onureg
-infections,Major,Opdivo
-infusion reactions,Major,Opdivo
-tumor lysis syndrome,Major,Opdivo
-colitis,Moderate,Opdivo
-diabetes,Moderate,Opdivo
-hepatic impairment,Moderate,Opdivo
-neurologic disorders,Moderate,Opdivo
-pneumonitis,Moderate,Opdivo
-renal dysfunction,Moderate,Opdivo
-thyroid disease,Moderate,Opdivo
-myasthenia gravis,Moderate,Opdivo
 COPD,Moderate,Orencia
 diabetes,Moderate,Orencia
 hepatitis B,Moderate,Orencia
@@ -4090,8 +3906,6 @@ retinal thrombosis,Moderate,Ortho Tri-Cyclen
 thyroid function tests,Moderate,Ortho Tri-Cyclen
 hyperlipidemia,Moderate,Ortho Tri-Cyclen
 weight gain,Minor,Ortho Tri-Cyclen
-hepatic impairment,Moderate,Oseltamivir
-renal impairment,Moderate,Oseltamivir
 depression,Moderate,Otezla
 renal dysfunction,Moderate,Otezla
 weight loss,Moderate,Otezla
@@ -4431,11 +4245,6 @@ mania,Moderate,Qelbree
 depression,Moderate,Qelbree
 liver impairment,Moderate,Qelbree
 renal impairment,Moderate,Qelbree
-hyperadrenocorticism,Moderate,QNASL
-infections,Moderate,QNASL
-ocular herpes simplex,Moderate,QNASL
-ocular toxicities,Moderate,QNASL
-osteoporosis,Moderate,QNASL
 cardiovascular,Major,Qsymia
 glaucoma,Major,Qsymia
 bone marrow depression/blood dyscrasias,Major,Qsymia
@@ -4562,27 +4371,10 @@ ziconotide,Moderate,Quviviq
 ziprasidone,Moderate,Quviviq
 zolpidem,Moderate,Quviviq
 zonisamide,Moderate,Quviviq
-hepatic impairment,Moderate,Qvar
-hyperadrenocorticism,Moderate,Qvar
-infections,Moderate,Qvar
-ocular herpes simplex,Moderate,Qvar
-ocular toxicities,Moderate,Qvar
-osteoporosis,Moderate,Qvar
-hepatic impairment,Moderate,Qvar Redihaler
-hyperadrenocorticism,Moderate,Qvar Redihaler
-infections,Moderate,Qvar Redihaler
-ocular herpes simplex,Moderate,Qvar Redihaler
-ocular toxicities,Moderate,Qvar Redihaler
-osteoporosis,Moderate,Qvar Redihaler
 C. diff,Major,Rabeprazole
 bone fractures,Moderate,Rabeprazole
 hypomagnesemia,Moderate,Rabeprazole
 liver disease,Moderate,Rabeprazole
-thromboembolism,Major,Raloxifene
-heart disease,Moderate,Raloxifene
-hypertriglyceridemia,Moderate,Raloxifene
-liver disease,Moderate,Raloxifene
-renal impairment,Moderate,Raloxifene
 depression,Major,Ramelteon
 severe renal impairment,Major,Ramelteon
 sleep apnea,Major,Ramelteon
@@ -4735,7 +4527,6 @@ gastrointestinal perforation,Moderate,Rinvoq
 hepatic impairment,Moderate,Rinvoq
 hyperlipidemia,Moderate,Rinvoq
 vaccination,Moderate,Rinvoq
-hepatic dysfunction,Moderate,Risdiplam
 ONJ,Major,Risedronate
 hypocalcemia,Major,Risedronate
 upper GI mucosal irritation,Major,Risedronate
@@ -4836,14 +4627,6 @@ PKU,Moderate,Rizatriptan
 renal dysfunction,Moderate,Rizatriptan
 renal dysfunction,Major,Robaxin
 seizures,Moderate,Robaxin
-colitis,Major,Rocephin
-hyperbilirubinemia,Major,Rocephin
-gallbladder disease,Moderate,Rocephin
-pancreatitis,Moderate,Rocephin
-prothrombin time alterations,Moderate,Rocephin
-renal/liver disease,Moderate,Rocephin
-liver disease,Moderate,Rocephin
-seizure disorders,Moderate,Rocephin
 hypotension,Major,Ropinirole
 psychosis,Major,Ropinirole
 neuroleptic malignant syndrome,Major,Ropinirole
@@ -5025,8 +4808,6 @@ TB infection,Moderate,Skyrizi
 vaccinations,Moderate,Skyrizi
 sodium/water balance,Major,Sodium bicarbonate
 acid/base balance,Moderate,Sodium bicarbonate
-sodium/water imbalance,Major,Sodium chloride
-acidosis,Moderate,Sodium chloride
 immunosuppression,Major,Sofosbuvir
 hepatic impairment,Moderate,Sofosbuvir
 renal impairment,Moderate,Sofosbuvir
@@ -5044,11 +4825,6 @@ renal/liver disease,Moderate,Soliqua
 hypokalemia,Moderate,Soliqua
 hypoglycemia,Moderate,Soliqua
 end stage renal disease,Moderate,Soliqua
-meningococcal infections,Major,Soliris
-infections,Major,Soliris
-PML,Major,Soliris
-thrombotic microangiopathy,Moderate,Soliris
-vaccination,Moderate,Soliris
 GI perforation,Major,SoluMEDROL
 infections,Major,SoluMEDROL
 prematurity,Major,SoluMEDROL
@@ -5240,8 +5016,6 @@ infections,Moderate,Taltz
 inflammatory bowel disease,Moderate,Taltz
 tuberculosis,Moderate,Taltz
 renal/hepatic impairment,Minor,Taltz
-hepatic impairment,Moderate,Tamiflu
-renal impairment,Moderate,Tamiflu
 DVT/pulmonary embolism,Major,Tamoxifen
 endometrial dysplasia,Moderate,Tamoxifen
 hepatic dysfunction,Moderate,Tamoxifen
@@ -5251,10 +5025,6 @@ glaucoma,Major,Tamsulosin
 hypotension,Moderate,Tamsulosin
 end-stage renal disease,Moderate,Tamsulosin
 severe liver disease,Moderate,Tamsulosin
-eczema,Major,Tazarotene
-sunburn,Moderate,Tazarotene
-eczema,Major,Tazorac
-sunburn,Moderate,Tazorac
 zidovudine,Moderate,Tecartus
 zinc acetate,Minor,Tecartus
 zinc chloride,Minor,Tecartus
@@ -5336,7 +5106,6 @@ depression,Moderate,Terbinafine
 immunosuppression,Moderate,Terbinafine
 lupus,Moderate,Terbinafine
 renal dysfunction,Moderate,Terbinafine
-psychiatric conditions,Moderate,Tessalon Perles
 carcinoma (male),Major,Testosterone
 fluid retention,Major,Testosterone
 hypercalcemia in breast cancer,Major,Testosterone
@@ -5434,11 +5203,6 @@ liver disease,Moderate,Tramadol
 renal dysfunction,Moderate,Tramadol
 seizure disorders,Moderate,Tramadol
 suicidal,Moderate,Tramadol
-intravascular clotting,Major,Tranexamic acid
-subarachnoid hemorrhage,Major,Tranexamic acid
-color vision defect,Moderate,Tranexamic acid
-convulsions,Moderate,Tranexamic acid
-renal dysfunction,Moderate,Tranexamic acid
 angle closure glaucoma,Moderate,Trazodone
 mania,Moderate,Trazodone
 seizures,Moderate,Trazodone
@@ -5603,19 +5367,12 @@ myeloid tumors,Major,Udenyca
 leukocytosis,Major,Udenyca
 hepatic impairment,Moderate,Ulipristal
 renal impairment,Moderate,Ulipristal
-secondary hyperuricemia,Major,Uloric
-CV disease,Moderate,Uloric
-renal dysfunction,Moderate,Uloric
-hepatic impairment,Moderate,Uloric
 hyperthermia,Major,Ultane
 hepatic dysfunction,Moderate,Ultane
 hyperkalemia,Moderate,Ultane
 intracranial pressure,Moderate,Ultane
 renal impairment,Moderate,Ultane
 seizures,Moderate,Ultane
-meningitis,Major,Ultomiris
-infections,Moderate,Ultomiris
-severe renal impairment,Moderate,Ultomiris
 alcoholism,Major,Ultracet
 liver disease,Major,Ultracet
 gastrointestinal obstruction,Major,Ultracet
@@ -5739,12 +5496,6 @@ QT prolongation,Moderate,Uroxatral
 renal impairment,Moderate,Uroxatral
 hypotension,Moderate,Uroxatral
 cataracts,Moderate,Uroxatral
-biliary obstruction,Major,Urso
-hepatic impairment,Moderate,Urso
-biliary obstruction,Major,Urso Forte
-hepatic impairment,Moderate,Urso Forte
-biliary obstruction,Major,Ursodiol
-hepatic impairment,Moderate,Ursodiol
 malignancies,Major,Ustekinumab
 posterior leukoencephalopathy syndrome,Major,Ustekinumab
 infections,Moderate,Ustekinumab
@@ -5810,11 +5561,6 @@ retinitis pigmentosa,Moderate,Vardenafil
 seizure disorders,Moderate,Vardenafil
 liver disease,Moderate,Vardenafil
 PKU,Moderate,Vardenafil
-neuropsychiatric events,Major,Varenicline
-alcoholism,Moderate,Varenicline
-CV disease,Moderate,Varenicline
-renal impairment,Moderate,Varenicline
-seizures,Moderate,Varenicline
 atrial fibrillation/flutter,Moderate,Vascepa
 liver disease,Moderate,Vascepa
 angioedema,Major,Vasotec
@@ -5846,7 +5592,6 @@ mania,Moderate,Venlafaxine
 seizures,Moderate,Venlafaxine
 urinary tract obstruction,Moderate,Venlafaxine
 weight loss,Minor,Venlafaxine
-hemoglobin abnormalities,Major,Venofer
 cardiovascular,Moderate,Ventolin
 diabetes,Moderate,Ventolin
 hypokalemia,Moderate,Ventolin
@@ -5941,9 +5686,6 @@ renal/liver disease,Moderate,Vistaril
 glaucoma,Moderate,Vistaril
 liver disease,Moderate,Vistaril
 renal/liver disease,Moderate,Vistaril
-hepatobiliary dysfunction,Major,Vitamin A
-malabsorption syndromes,Moderate,Vitamin A
-malabsorption,Moderate,Vitamin B6
 hepatobiliary dysfunction,Major,Vitamin E
 malabsorption syndromes,Minor,Vitamin E
 asthma,Major,Voltaren
@@ -5986,8 +5728,6 @@ lipid alterations,Moderate,Vraylar
 renal impairment,Moderate,Vraylar
 weight gain,Moderate,Vraylar
 hyperprolactinemia,Moderate,Vraylar
-hypothyroidism,Moderate,Vyndamax
-liver disease,Moderate,Vyndamax
 liver disease,Major,Vytorin
 liver disease,Major,Vytorin
 rhabdomyolysis,Major,Vytorin
@@ -6063,12 +5803,6 @@ mixed/manic episode,Moderate,Wellbutrin XL
 psychosis,Moderate,Wellbutrin XL
 renal dysfunction,Moderate,Wellbutrin XL
 weight loss,Minor,Wellbutrin XL
-cardiovascular complications,Moderate,Wilate
-inhibitory antibodies,Moderate,Wilate
-blood isoagglutinin,Moderate,Wilate
-immunodeficiency,Moderate,Wilate
-thromboembolic events,Moderate,Wilate
-thromboembolic reactions,Moderate,Wilate
 hypercalcemia,Major,Wynzora
 diabetes,Moderate,Wynzora
 diaper rash,Moderate,Wynzora
@@ -6080,11 +5814,6 @@ psychosis,Major,Xadago
 hepatic impairment,Major,Xadago
 hypertension,Moderate,Xadago
 retinal pathology,Moderate,Xadago
-herpes simplex,Major,Xalatan
-respiratory disorders,Moderate,Xalatan
-macular edema,Moderate,Xalatan
-uveitis,Moderate,Xalatan
-renal/liver disease,Moderate,Xalatan
 QT prolongation,Major,Xalkori
 bradycardia,Moderate,Xalkori
 gastrointestinal perforation,Moderate,Xalkori
@@ -6185,7 +5914,6 @@ infections,Moderate,Xigduo XR
 zinc acetate,Moderate,Xofluza
 zinc gluconate,Moderate,Xofluza
 zinc sulfate,Moderate,Xofluza
-malignancies,Moderate,Xolair
 cardiovascular,Moderate,Xopenex
 diabetes,Moderate,Xopenex
 hypokalemia,Moderate,Xopenex
@@ -6251,11 +5979,6 @@ renal/liver disease,Moderate,Xultophy
 hypokalemia,Moderate,Xultophy
 hypoglycemia,Moderate,Xultophy
 cardiovascular disease,Moderate,Xultophy
-cardiovascular complications,Moderate,Xyntha
-inhibitory antibodies,Moderate,Xyntha
-blood isoagglutinin,Moderate,Xyntha
-immunodeficiency,Moderate,Xyntha
-thromboembolic events,Moderate,Xyntha
 carcinoma (male),Major,Xyosted
 fluid retention,Major,Xyosted
 hypercalcemia in breast cancer,Major,Xyosted
@@ -6346,11 +6069,6 @@ infections,Major,Yescarta
 inflammatory disorders,Major,Yescarta
 neurological toxicities,Major,Yescarta
 vaccination,Moderate,Yescarta
-cardiovascular disease,Major,Yohimbine
-peptic ulcer disease,Major,Yohimbine
-renal dysfunction,Major,Yohimbine
-depression/psychoses,Moderate,Yohimbine
-liver disease,Moderate,Yohimbine
 cardiomyopathy,Moderate,Yondelis
 hepatotoxicity,Moderate,Yondelis
 neutropenic sepsis,Moderate,Yondelis
@@ -6387,15 +6105,11 @@ leukocytosis,Major,Zarxio
 sepsis,Moderate,Zarxio
 thrombocytopenia,Moderate,Zarxio
 sickle cell disease,Moderate,Zarxio
-insulinoma,Major,Zegalogue
-pheochromocytoma,Major,Zegalogue
-glycogen depletion,Moderate,Zegalogue
 cardiovascular disorders,Moderate,Zejula
 liver dysfunction,Moderate,Zejula
 MDS/AML,Moderate,Zejula
 pancytopenia,Moderate,Zejula
 renal impairment,Moderate,Zejula
-hyperuricemia,Moderate,Zenpep
 CV disease,Major,Zeposia
 CV risks,Moderate,Zeposia
 hypertension,Moderate,Zeposia
@@ -6433,9 +6147,6 @@ hyperkalemia,Major,Zestril
 hypotension,Major,Zestril
 liver disease,Moderate,Zestril
 renal dysfunction,Moderate,Zestril
-liver disease,Major,Zetia
-myopathy/rhabdomyolysis,Moderate,Zetia
-renal impairment,Moderate,Zetia
 bone marrow suppression,Major,Zidovudine
 myopathy,Major,Zidovudine
 hepatotoxicity,Major,Zidovudine
@@ -6615,10 +6326,6 @@ PKU,Moderate,12 Hour Cold Maximum Strength
 BPH,Moderate,12 Hour Cold Maximum Strength
 diabetes,Moderate,12 Hour Cold Maximum Strength
 glaucoma,Moderate,12 Hour Cold Maximum Strength
-thyroid/metabolic abnormality,Moderate,3M Skin and Nasal Antiseptic
-hepatotoxicity,Major,3tc
-pancreatitis,Major,3tc
-renal dysfunction,Major,3tc
 BPH,Moderate,4-Way
 cardiovascular,Moderate,4-Way
 diabetes,Moderate,4-Way
