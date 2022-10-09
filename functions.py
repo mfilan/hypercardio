@@ -18,8 +18,29 @@ for a in temp:
 
 db_keys = list(db.keys())
 
+def getThreat(da, db):
+    result = "Minor"
+    try:
+        result = db[da]["drug_interactions"][db]
+    except:
+        "pass"
+    return result
+
+
+def getIteractions(lis):
+    result = {"Minor":0,"Moderate":0, "Major":0 }
+    for el1, el2 in itertools.combinations(lis,2):
+        try:
+            result[db[el1]["drug_interactions"][el2]] += 1
+        except:
+            "pass"
+    return result
+
+def getActiveSubstance(drug):
+    return "hexadermium"
+
+
 def sorting(lis):
-    
     temp = [np.sum([weights[db[b1]["drug_interactions"][b2]]for b1, b2 in itertools.combinations(a,2)]) for a in lis]
     return np.array(lis)[np.argsort(temp)].tolist()
     
@@ -54,10 +75,12 @@ def findDrugs(disieses, banned = [], redundant=False):
 
     result = helper[list(helper.keys())[-1]][len(db_keys)]
     result = [[db_keys[b] for b in a ] for a in result]
-    return sorting(result)
+    result = sorting(result)
+    result = [{"info":[{"drug":b, "substance":getActiveSubstance(b),"diseases":db[b]["diseases"]} for b in a], "interactions":getIteractions(a)} for a in result]
+    result = {"recommendedDrugs":result[0], "otherRecommendations":result[1:]}
+    return result
 
 def findBest(lis, ill):
-
     found = {}
     for key in db_keys:
         if ill in db[key]["diseases"]:
@@ -73,10 +96,20 @@ def findBest(lis, ill):
                     "pass"
             if works:
                 found[key] = score
-    # zwrócić minimalną wartość z dictu = chillera
+    result = {"recommendedDrugs":[]}
+    if tempKeys := np.array(list(found.keys())):
+        drugs = tempKeys[np.argsort(np.array([found[a] for a in tempKeys]))[3:]]
+        result["recommendedDrugs"] = [{"drug":a, "substance":getActiveSubstance(a), "interactionsLevel":getIteractions([*lis,a])} for a in drugs]
+    return result
 
+
+def checkComp(lis, drug):
+    temp = [{"drug":el, "level":getThreat(el,drug), "diseases": db[el]["diseases"]}for el in lis]
+    return {"drug":drug, "substance":getActiveSubstance(drug), "interactions": temp}
 
 
 
     
 print(findDrugs(["Hydrocephalus"]))
+
+print(findBest(['Zyvox'], "Nervous System Disorder"))
