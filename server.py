@@ -2,6 +2,7 @@ from flask import Flask, jsonify, request
 import json
 import pandas as pd
 import os
+from functions import *
 
 
 app = Flask(__name__)
@@ -17,6 +18,18 @@ def get_drugs():
     exclude_list = data["excludeList"]
 
     mock_json = open(os.path.join("contracts", "doctor_module", "response_diseases.json"), "r", encoding='utf-8')
+    return json.load(findDrugs(diseases, exclude_list=exclude_list))
+
+@app.route('/doctor-selection', methods=['POST'])
+def get_drug_for_new_disese():
+    data = request.get_json()
+    patient_drugs_list = data["patientDrugsList"]
+    patient_diseases = data["patientDiseases"]
+    new_disease = data["newDisease"]
+
+    print(findBest(patient_drugs_list, new_disease))
+
+    mock_json = open(os.path.join("contracts", "doctor_module", "response_selection.json"), "r", encoding='utf-8')
     return json.load(mock_json)
 
 @app.route('/patient', methods=['POST'])
