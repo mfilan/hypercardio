@@ -1,0 +1,157 @@
+{
+  "recommendedDrugs": [
+    {
+      "drug": "EURYROX",
+      "substance": "Lewotyroksyna",
+      "diseases": [
+        "nadciśnienie tętnicze",
+        "miażdzyca"
+      ],
+      "activeCompounds": [
+        "sample",
+        "sample",
+        "sample"
+      ]
+    },
+    {
+      "drug": "LEK NR 2",
+      "substance": "Nazwa pomocnicza",
+      "diseases": [
+        "nadciśnienie tętnicze"
+      ],
+      "activeCompounds": [
+        "sample",
+        "sample",
+        "sample"
+      ]
+    },
+    {
+      "drug": "LEK NR 3",
+      "substance": "Nazwa pomocnicza",
+      "diseases": [
+        "miażdzyca"
+      ],
+      "activeCompounds": [
+        "sample",
+        "sample",
+        "sample"
+      ]
+    }
+  ],
+  "otherRecommendations": [
+    [
+      {
+        "drug": "EUTHYROX",
+        "substance": "substance1",
+        "diseases": [
+          "diseasesName1",
+          "diseasesName2"
+        ],
+        "activeCompounds": [
+          "compounds1",
+          "compounds2"
+        ]
+      },
+      {
+        "drug": "LEK NR 2",
+        "substance": "substance2",
+        "diseases": [
+          "diseasesName1",
+          "diseasesName2"
+        ],
+        "activeCompounds": [
+          "compounds1",
+          "compounds2"
+        ]
+      },
+      {
+        "drug": "LEK NR 4",
+        "substance": "substance3",
+        "diseases": [
+          "diseasesName1",
+          "diseasesName2"
+        ],
+        "activeCompounds": [
+          "compounds1",
+          "compounds2"
+        ]
+      }
+    ],
+    [
+      {
+        "drug": "EUTHYROX",
+        "substance": "substance1",
+        "diseases": [
+          "diseasesName1",
+          "diseasesName2"
+        ],
+        "activeCompounds": [
+          "compounds1",
+          "compounds2"
+        ]
+      },
+      {
+        "drug": "LEK NR 2",
+        "substance": "substance2",
+        "diseases": [
+          "diseasesName1",
+          "diseasesName2"
+        ],
+        "activeCompounds": [
+          "compounds1",
+          "compounds2"
+        ]
+      },
+      {
+        "drug": "LEK NR 4",
+        "substance": "substance3",
+        "diseases": [
+          "diseasesName1",
+          "diseasesName2"
+        ],
+        "activeCompounds": [
+          "compounds1",
+          "compounds2"
+        ]
+      }
+    ],
+    [
+      {
+        "drug": "EUTHYROX",
+        "substance": "substance1",
+        "diseases": [
+          "diseasesName1",
+          "diseasesName2"
+        ],
+        "activeCompounds": [
+          "compounds1",
+          "compounds2"
+        ]
+      },
+      {
+        "drug": "LEK NR 2",
+        "substance": "substance2",
+        "diseases": [
+          "diseasesName1",
+          "diseasesName2"
+        ],
+        "activeCompounds": [
+          "compounds1",
+          "compounds2"
+        ]
+      },
+      {
+        "drug": "LEK NR 4",
+        "substance": "substance3",
+        "diseases": [
+          "diseasesName1",
+          "diseasesName2"
+        ],
+        "activeCompounds": [
+          "compounds1",
+          "compounds2"
+        ]
+      }
+    ]
+  ]
+}

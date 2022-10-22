@@ -1,0 +1,10 @@
+{
+  "diseases": [
+    "diseasesName",
+    "diseasesName"
+  ],
+  "excludeList": [
+    "excludeSubstances1",
+    "excludeSubstances2"
+  ]
+}

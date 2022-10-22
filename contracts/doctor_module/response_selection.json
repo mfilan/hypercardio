@@ -1,0 +1,22 @@
+{
+  "recommendedDrugs": [
+    {
+      "drug": "LEK NR 1",
+      "substance": "Lewotyroksyna",
+      "description": "Lek na cukrzycę",
+      "interactionsLevel": "minor"
+    },
+    {
+      "drug": "LEK NR 2",
+      "substance": "Lewotyroksyna",
+      "description": "Lek na cukrzycę",
+      "interactionsLevel": "moderate"
+    },
+    {
+      "drug": "LEK NR 3",
+      "substance": "Lewotyroksyna",
+      "description": "Lek na cukrzycę",
+      "interactionsLevel": "major"
+    }
+  ]
+}

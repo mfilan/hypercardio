@@ -1,0 +1,11 @@
+{
+  "patientDrugsList": [
+    "diseasesName",
+    "diseasesName"
+  ],
+  "patientDiseases": [
+    "diseasesName",
+    "diseasesName"
+  ],
+  "newDisease": "newDisease"
+}
